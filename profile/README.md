@@ -1,20 +1,51 @@
-# NexaCore Labs 🔬
+# NexaCore Labs 🤖
 
-### High-Value Asset Orchestration & Software Architecture Studio
+### The AI Commercial Engine for Modern Businesses
 
-Welcome to **NexaCore Labs**, a specialized engineering space dedicated to building robust, scalable, and intelligent ecosystems for industries where precision and data integrity are non-negotiable.
+**NexaCore Labs** is a B2B SaaS startup building the operating system for AI-powered commercial teams. We help businesses of any size create, deploy, and manage AI Agents that handle the full sales cycle — from first contact to closed deal — across their communication channels.
 
 ---
 
-## 💎 Current Flagship Project: ORIX
+## 🚀 What we're building
 
-**ORIX** is a high-end Operational Orchestration Ecosystem designed for the jewelry and luxury watch industry. It transforms traditional management into a digital-first operation by unifying physical craftsmanship with omnichannel intelligence.
+**NexaCore** is a no-code platform where any business owner can:
 
-### 🏗️ Architectural Core
-As an architecture-driven project, ORIX is built upon three fundamental pillars:
+- Create AI Agents trained on their own business data
+- Connect them to WhatsApp, Instagram, and Facebook Messenger
+- Monitor and manage every conversation from a single CRM
+- Scale their commercial operation without scaling headcount
 
-* **Single Source of Truth (SSoT):** Unified management of technical inventory (metals/gems), workshop status, and real-time omnichannel synchronization.
-* **Event-Driven Automation:** Orchestration of secondary business logic (automated invoicing, WhatsApp notifications, and security backups) via **n8n** to maintain a lean and performant core.
-* **Augmented Intelligence:** Native integration with **Generative AI (Gemini)** for automated asset creation and predictive business analytics.
 ---
-*"Building the bridge between physical value and digital intelligence."*
+
+## 🧠 How it works
+
+NexaCore combines three layers into a single product:
+
+| Layer | Description |
+|---|---|
+| **AI Agent Platform** | Build and train agents without technical knowledge — at `app.nexacorelabs.com` |
+| **Omnichannel CRM (NexaConnect)** | Every conversation in one place — at `connect.nexacorelabs.com` |
+| **Event-driven messaging pipeline** | Real-time AI responses at scale via WhatsApp Business API |
+
+---
+
+## 🏗️ Tech stack
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+---
+
+## 🌎 Where we're going
+
+NexaCore is built for the global SMB market — starting in Latin America and expanding market by market. Our vision is a fully autonomous commercial engine where AI generates leads, qualifies them, closes deals, and retains customers — end to end.
+
+---
+
+*"Replacing headcount with intelligence, one conversation at a time."*
